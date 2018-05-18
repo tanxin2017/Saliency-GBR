@@ -19,11 +19,12 @@ We provide our results of benchmark datasets used in the paper for convenience.
 # Citing our work
 
 Please kindly cite our work if it helps your research:
-···
+
+```
 @inproceedings{tan2018saliencygbr,
     title = {Saliency Detection by Deep Network with Boundary Refinement and Global Context},
     author={Xin, Tan and Hengliang, Zhu and Zhiwen, Shao and Xiaonan, Hou and Yangyang, Hao and Lizhuang, Ma},
     booktitle = {IEEE International Conference on Multimedia and Expo (ICME)},
     year = {2018}
 }
-···
+```
