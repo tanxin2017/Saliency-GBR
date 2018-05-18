@@ -5,6 +5,12 @@ This projetc is for our ICME2018 paper "Saliency Detection by Deep Network with 
 
 ![](https://github.com/tanxin2017/Saliency-GBR/blob/master/network.png)
 
+# Usage
+
+You can trian our model on public caffe version: [caffe](https://github.com/BVLC/caffe). In order to read images, you can take data layer like ![HED](https://github.com/s9xie/hed) or by your own layer.
+
+Our network is trained based on VGG16 pretrained on Imagenet.
+
 # Results of datasets used in the paper
 ![](https://github.com/tanxin2017/Saliency-GBR/blob/master/results.png)
 ![](https://github.com/tanxin2017/Saliency-GBR/blob/master/performance.png)
