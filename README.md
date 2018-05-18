@@ -13,16 +13,17 @@ We provide our results of benchmark datasets used in the paper for convenience.
 
 [DropBox](https://www.dropbox.com/sh/sggqofpgpm5nf95/AAA4sxEqjFdyeXgX2hlFI6EAa?dl=0)
 
-[BaiduYun](https://pan.baidu.com/s/1inqzkkFd4c0i1131G4p70w) passwd: zfhk
+[BaiduYun](https://pan.baidu.com/s/1inqzkkFd4c0i1131G4p70w) (passwd: zfhk)
 
 
 # Citing our work
 
 Please kindly cite our work if it helps your research:
-
+···
 @inproceedings{tan2018saliencygbr,
     title = {Saliency Detection by Deep Network with Boundary Refinement and Global Context},
     author={Xin, Tan and Hengliang, Zhu and Zhiwen, Shao and Xiaonan, Hou and Yangyang, Hao and Lizhuang, Ma},
     booktitle = {IEEE International Conference on Multimedia and Expo (ICME)},
     year = {2018}
 }
+···
