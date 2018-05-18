@@ -11,6 +11,8 @@ You can trian our model on public caffe version: [caffe](https://github.com/BVLC
 
 Our network is trained based on VGG16 pretrained on Imagenet.
 
+You can test our model as [DSS](https://github.com/Andrew-Qibin/DSS).
+
 # Results of datasets used in the paper
 ![](https://github.com/tanxin2017/Saliency-GBR/blob/master/results.png)
 ![](https://github.com/tanxin2017/Saliency-GBR/blob/master/performance.png)
