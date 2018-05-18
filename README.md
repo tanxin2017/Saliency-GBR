@@ -1,11 +1,11 @@
 # Saliency-GBR
 
-This projetc is for our ICME2018 paper "SALIENCY DETECTION BY DEEP NETWORK WITH BOUNDARY REFINEMENT AND GLOBAL CONTEXT" by Xin Tan, Hengliang Zhu and et. al. 
+This projetc is for our ICME2018 paper "Saliency Detection by Deep Network with Boundary Refinement and Global Context" by Xin Tan, Hengliang Zhu and et. al. 
 
 
 ![](https://github.com/tanxin2017/Saliency-GBR/blob/master/network.png)
 
-#Results of datasets used in the paper
+# Results of datasets used in the paper
 ![](https://github.com/tanxin2017/Saliency-GBR/blob/master/results.png)
 ![](https://github.com/tanxin2017/Saliency-GBR/blob/master/performance.png)
 
@@ -15,7 +15,7 @@ We provide our results of benchmark datasets used in the paper for convenience.
 [BaiduYun](https://pan.baidu.com/s/1inqzkkFd4c0i1131G4p70w) passwd: zfhk
 
 
-#Citing our work
+# Citing our work
 
 Please kindly cite our work if it helps your research:
 
