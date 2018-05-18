@@ -7,7 +7,7 @@ This projetc is for our ICME2018 paper "Saliency Detection by Deep Network with 
 
 # Usage
 
-You can trian our model on public caffe version: [caffe](https://github.com/BVLC/caffe). In order to read images, you can take data layer like ![HED](https://github.com/s9xie/hed) or by your own layer.
+You can trian our model on public caffe version: [caffe](https://github.com/BVLC/caffe). In order to read images, you can take data layer like [HED](https://github.com/s9xie/hed) or by your own layer.
 
 Our network is trained based on VGG16 pretrained on Imagenet.
 
